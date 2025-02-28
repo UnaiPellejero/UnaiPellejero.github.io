@@ -1,0 +1,28 @@
+.texto, ul {
+  color: black;
+  text-align: right;
+}
+.texto2 {
+  color: red;
+  text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+img {
+  width: 50%;
+}
+html {
+    font-size: 10px;
+    font-family:"Open Sans", sans-serif;
+}
+h1 {
+    text-align: right;
+}
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%; 
+}
